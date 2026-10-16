@@ -1121,4 +1121,4 @@ Always think:
 
 > **DP = State + Choices + Transition + Base Case + Reuse of Answers**
 
-Once you become comfortable identifying the **state**, most DP problems become much easier
+Once you become comfortable identifying the **state**, most DP problems become much easier.
